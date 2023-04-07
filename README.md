@@ -1,5 +1,6 @@
 ## Morgan Frotten | bbybeefalo | she/her
 
+Full stack web developer and silly little guy.
 
 - 📫 How to reach me **mmfrotten@gmail.com**
 
